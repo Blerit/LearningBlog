@@ -1,0 +1,5 @@
+Esta es mi pequeña historia en git
+
+Ayer entregué un proyecto de login sin conocer bien el sistema de git
+
+Pero we'll see...
